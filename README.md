@@ -25,3 +25,8 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+
+![Screenshot (34)](https://github.com/Tiger-rohan/Ml-workflow/assets/162948010/49e771d6-3ed6-4409-a29a-bd6d20c3c4c5)
+![Screenshot (33)](https://github.com/Tiger-rohan/Ml-workflow/assets/162948010/d11302cd-97c8-4a76-8422-57789974ba83)
+![Screenshot (32)](https://github.com/Tiger-rohan/Ml-workflow/assets/162948010/4142fccf-7c98-4fb5-9f60-a92610ee8fc3)
